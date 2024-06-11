@@ -1489,3 +1489,15 @@ footer .credits a {
 .checked {
   color: orange;
 }
+
+.introduction {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.cgu {
+  font-size: 30px;
+  line-height: 1.5;
+  font-weight: bold;
+}
